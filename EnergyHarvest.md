@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
 
 
 
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-img {
-  width: 128px
-  height: 128px
-}
-</style>
+
 </head>
 <body>
 
